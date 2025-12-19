@@ -1,7 +1,6 @@
 package CollectionFrameWork.listInterface;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Geeks {
 
@@ -58,5 +57,17 @@ public class Geeks {
 
         //Checking if an element is present or not
         System.out.println(li.contains("ruby"));
+
+
+        NavigableSet<Integer> ts = new TreeSet<>();
+
+        ts.add(45);
+        ts.add(11);
+        ts.add(56);
+        ts.add(78);
+
+        System.out.println(ts.contains(11));
+        System.out.println(ts.first());
+        System.out.println(ts.pollFirst());
     }
 }

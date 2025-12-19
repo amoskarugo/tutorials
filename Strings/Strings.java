@@ -100,6 +100,6 @@ public class Strings {
         hs.add("melon");
         hs.add("apple");
         hs.add("mango");
-        System.out.println(hs.);
+        System.out.println(hs);
     }
 }
