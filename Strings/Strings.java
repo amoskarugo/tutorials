@@ -1,5 +1,7 @@
 package Strings;
 
+import java.util.HashSet;
+import java.util.Set;
 import java.util.StringTokenizer;
 
 public class Strings {
@@ -91,5 +93,13 @@ public class Strings {
 
         // It will raise NullPointerException
         System.out.println(s3);
+
+
+        Set<String> hs = new HashSet<>();
+        hs.add("orange");
+        hs.add("melon");
+        hs.add("apple");
+        hs.add("mango");
+        System.out.println(hs.);
     }
 }
