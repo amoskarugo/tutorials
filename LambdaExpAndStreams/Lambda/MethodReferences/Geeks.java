@@ -1,4 +1,4 @@
-package LambdaExpAndStreams.MethodReferences;
+package LambdaExpAndStreams.Lambda.MethodReferences;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package LambdaExpAndStreams.MethodReferences.TypesOfMethodRefs;
+package LambdaExpAndStreams.Lambda.MethodReferences.TypesOfMethodRefs;
 
 // Helper class Comparator class
 class ComparisonProvider

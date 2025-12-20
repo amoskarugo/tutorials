@@ -1,4 +1,4 @@
-package LambdaExpAndStreams.MethodReferences.TypesOfMethodRefs;
+package LambdaExpAndStreams.Lambda.MethodReferences.TypesOfMethodRefs;
 
 import java.util.ArrayList;
 import java.util.List;

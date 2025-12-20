@@ -1,6 +1,4 @@
-package LambdaExpAndStreams.MethodReferences.TypesOfMethodRefs;
-
-import Methods.Person;
+package LambdaExpAndStreams.Lambda.MethodReferences.TypesOfMethodRefs;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package LambdaExpAndStreams.MethodReferences.TypesOfMethodRefs;
+package LambdaExpAndStreams.Lambda.MethodReferences.TypesOfMethodRefs;
 
 class Person2
 {

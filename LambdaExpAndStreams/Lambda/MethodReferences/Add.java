@@ -1,4 +1,4 @@
-package LambdaExpAndStreams;
+package LambdaExpAndStreams.Lambda.MethodReferences;
 
 public interface Add {
 
