@@ -1,4 +1,4 @@
-package MultithreadingandSynchronization.CreatingThreads;
+package MultithreadingandSynchronization;
 
 public class ThreadStartVsRun extends Thread{
 
