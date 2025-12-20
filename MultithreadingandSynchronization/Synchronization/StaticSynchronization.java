@@ -10,15 +10,14 @@ public class StaticSynchronization {
 
         synchronized static void printTable(int n){
 
-            for (int i = 1; i <=3; i++){
 
-                System.out.println(n * i);
                 try {
-
+                    for (int i = 1; i <=3; i++)
+                        System.out.println(n * i);
                 } catch (Exception e) {
                     System.out.println(e);
                 }
-            }
+
         }
     }
 
