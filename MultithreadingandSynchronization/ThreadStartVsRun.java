@@ -26,7 +26,7 @@ public class ThreadStartVsRun extends Thread{
         calling run() directly does not create a new thread. Instead,
         it behaves like a normal method call executed in the current thread.
          */
-        thread.run();
+        thread.run(); //r
 
 
         //Multiple Invocations
