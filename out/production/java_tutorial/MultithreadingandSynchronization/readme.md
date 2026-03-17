@@ -14,3 +14,23 @@ and begins the thread’s execution.
 
 We create a new class which implements java.lang.Runnable interface and define the run() method there.
 Then we instantiate a Thread object and call start() method on this object. 
+
+When to Use Which?
+
+    Use extends Thread: if your class does not extend any other class.
+    Use implements Runnable: if your class already extends another class (preferred because Java doesn’t support multiple inheritance).
+
+Life Cycle of a Thread
+
+During its thread life cycle, a Java thread transitions through several states from creation to termination.
+
+    New State
+    Runnable State
+    Blocked State
+    Waiting State
+    Timed Waiting State
+    Terminated State
+
+
+![Lifecycle-and-States-of-a-Thread-in-Java-1.png](../../../Downloads/Lifecycle-and-States-of-a-Thread-in-Java-1.png)
+
